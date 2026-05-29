@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8"/>
-    <title>TEST Home || FNSWorkon || Online Payroll and HR Software</title>
+    <title>Home || FNSWorkon || Online Payroll and HR Software</title>
     <!-- mobile responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
